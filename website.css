@@ -1,0 +1,19 @@
+/* Start */
+body {
+    padding: 0;
+	background-color: #344496; /*light blue*/
+}
+
+.shortDesc {
+	font-size: 16pt;
+}
+
+.resume {
+	font-size: 14pt;
+}
+
+.pad {
+	font-family: Trebuchet, "Courier New";
+	padding: 2% 20% 0 20%;
+	color: #FFFFFF;
+}
